@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ MECCHA CHAMELEON
-# 🎯 ESP & AIM — XERIFEDEV
+# 🎯 ESP & AIM 
 
 ### 👁️ ESP • 🎯 AIM • 🔐 SEGUIDORKEY LOGIN
 
